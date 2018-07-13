@@ -1,6 +1,6 @@
 ﻿[CmdletBinding()]
 param (
-[Parameter(Mandatory=$True)
+[Parameter(Mandatory=$True)]
 [String]$Name,
 [String]$location='chinaeast'
 )
